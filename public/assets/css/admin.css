@@ -1,0 +1,14 @@
+/* Retouches mineures par-dessus Bootstrap pour l'administration */
+
+body {
+    min-height: 100vh;
+}
+
+.card .fs-2 {
+    line-height: 1.1;
+}
+
+textarea#content {
+    font-family: Consolas, Menlo, monospace;
+    font-size: 0.95rem;
+}
